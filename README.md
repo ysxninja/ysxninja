@@ -2,10 +2,10 @@
 <p align="center">
  <!--
  <img width="100px" src="" align="center" alt="" />
--->
  <h2 align="center">Hi there 👋</h2>
+-->
  <p align="left">
-I am a developer currently growing experience and skills by looking for opportunities that challenge and fully utilize my skillset.
+Developer currently growing experience and skills by looking for opportunities that challenge and fully utilize my skillset.
  </p>
 </p>
 
