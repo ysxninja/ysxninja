@@ -1,18 +1,35 @@
-### Hi there 👋
+
+<p align="center">
+ <!--
+ <img width="100px" src="" align="center" alt="" />
+-->
+ <h2 align="center">Hi there 👋</h2>
+ <p align="left">
 I am a developer currently growing experience and skills by looking for opportunities that challenge and fully utilize my skillset.
+ </p>
+</p>
 
-🌱 Currently learning: 
-  * Javascript (react) - fronted/backend
-  * Golang - cli tools
+<p align="center">
+  🌱 Currently learning:  
+     <ul align="left" style="list-style-type:none"> 
+      <li> Javascript (react) - frontend/backend</li>
+      <li> Golang - cli tools</li>
+     </ul>
+ </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles)](https://github.com/ya-suke/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=expense-tracker)](https://github.com/ya-suke/expense-tracker)
 
-## Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=expense-tracker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/expense-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=bash-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/bash-scripts)
 
-[![ya-suke's github stats](https://github-readme-stats.vercel.app/api?username=ya-suke&show_icons=true&include_all_commits=true&count_private=true&&hide=contribs,prs,issues,stars&&theme=onedark)](https://github.com/ya-suke)
 
-[![ya-suke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-suke&theme=onedark)](https://github.com/ya-suke)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
+ <h2 align="center">Stats</h2>
+</p>
+
+[![ya-suke's github stats](https://github-readme-stats.vercel.app/api?username=ya-suke&show_icons=true&include_all_commits=true&count_private=true&&hide=contribs,prs,issues,stars&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke)
+[![ya-suke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-suke&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke)
 
 <!--
 ## Contact
