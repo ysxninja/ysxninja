@@ -13,7 +13,9 @@ Developer currently growing experience and skills by looking for opportunities t
   🌱 Currently learning:  
      <ul align="left" style="list-style-type:none"> 
       <li> Javascript (MERN) - frontend/backend</li>
-      <li> Golang - cli tools</li>
+      <li> Golang - cli + cloud-Native apps</li>
+      <li> Python - automation</li>
+      <li> Bash - scripting</li>
      </ul>
  </p>
 
