@@ -12,7 +12,7 @@ Developer currently growing experience and skills by looking for opportunities t
 <p align="center">
   🌱 Currently learning:  
      <ul align="left" style="list-style-type:none"> 
-      <li> Javascript (react) - frontend/backend</li>
+      <li> Javascript (MERN) - frontend/backend</li>
       <li> Golang - cli tools</li>
      </ul>
  </p>
