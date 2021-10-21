@@ -24,7 +24,7 @@ Developer currently growing experience and skills by looking for opportunities t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=bash-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/bash-scripts)
 
-
+<!--
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">Stats</h2>
@@ -33,7 +33,7 @@ Developer currently growing experience and skills by looking for opportunities t
 [![ya-suke's github stats](https://github-readme-stats.vercel.app/api?username=ya-suke&show_icons=true&include_all_commits=true&count_private=true&&hide=contribs,prs,issues,stars&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke)
 [![ya-suke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-suke&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke)
 
-<!--
+
 ## Contact
 
 <details>
