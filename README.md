@@ -22,7 +22,7 @@ Developer currently growing experience and skills by looking for opportunities t
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=expense-tracker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/expense-tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=bash-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/bash-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=shell-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/shell-scripts)
 
 <!--
 <p align="center">
