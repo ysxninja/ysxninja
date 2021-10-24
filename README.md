@@ -19,13 +19,12 @@ Growing experience and skills.
      </ul>
  </p>
 
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=shell-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/shell-scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=expense-tracker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/expense-tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=ligatures&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/ligatures)
 
-<!--
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">Stats</h2>
