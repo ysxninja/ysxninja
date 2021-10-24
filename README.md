@@ -10,19 +10,18 @@ Developer currently growing experience and skills by looking for opportunities t
 </p>
 
 <p align="center">
-  🌱 Currently learning:  
      <ul align="left" style="list-style-type:none"> 
       <li> Javascript (MERN) - frontend/backend</li>
       <li> Golang - cli + cloud-Native apps</li>
       <li> Python - automation</li>
-      <li> Bash - scripting</li>
+      <li> Bash,Lua - scripting</li>
      </ul>
  </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=expense-tracker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/expense-tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=shell-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ya-suke/shell-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=expense-tracker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/expense-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=dotfiles&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ya-suke&repo=shell-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/ya-suke/shell-scripts)
 
 <!--
 <p align="center">
