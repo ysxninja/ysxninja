@@ -12,9 +12,10 @@ Growing experience and skills.
 <p align="center">
  <p align="left">Interests:</p> 
      <ul align="left" style="list-style-type:none"> 
+      <li> Python - Machine Learning + automation</li>
+      <li> Deep Learning </li>
       <li> Javascript (MERN) - frontend/backend</li>
       <li> Golang - cli + cloud-Native apps</li>
-      <li> Python - automation</li>
       <li> Bash,VimScript, Lua - scripting</li>
      </ul>
  </p>
