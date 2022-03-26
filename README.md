@@ -5,18 +5,30 @@
  <h2 align="center">Hi there 👋</h2>
 -->
  <p align="left">
-Growing experience and skills.
+  Minimalist.<br/>
+  Loves Scripting.<br/>
+  Currently developing experience and skills.
  </p>
 </p>
 
 <p align="center">
- <p align="left">Interests:</p> 
-     <ul align="left" style="list-style-type:none"> 
-      <li> Python - Machine Learning + automation</li>
+<p align="left"><b>Interests:</b></p> 
+     <ul align="left" style="list-style-type:none">
+     <h><b>Scripting :</b></h> 
+      <li> Javascript 
+         <ul align="left" style="list-style-type:none">
+          <li> (MongoDB+Express.js+React.js+Node.js) - frontend/backend </li>
+          <li> GNOME Javascript (GJS) </li>
+          <li> Typescript </li>
+          <li> Next.js </li>
+         </ul> 
+       </li>
+      <li> Bash,VimScript, Lua </li>
+      <li> Golang - cli </li>
+      <br/>
+      <h><b>Other :</b></h> 
+      <li> Python - Machine Learning + automation </li>
       <li> Deep Learning </li>
-      <li> Javascript (MERN) - frontend/backend</li>
-      <li> Golang - cli + cloud-Native apps</li>
-      <li> Bash,VimScript, Lua - scripting</li>
      </ul>
  </p>
 
