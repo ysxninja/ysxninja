@@ -14,6 +14,11 @@
 <p align="center">
 <p align="left"><b>Interests:</b></p> 
      <ul align="left" style="list-style-type:none">
+     <h><b>Command Line Interface (CLI) Programming :</b></h>
+     <li> Rust </li>
+     <li> Go </li>
+     <li> Bash </li>
+     <br/>
      <h><b>Scripting :</b></h> 
       <li> Javascript 
          <ul align="left" style="list-style-type:none">
@@ -23,8 +28,7 @@
           <li> Next.js </li>
          </ul> 
        </li>
-      <li> Bash,VimScript, Lua </li>
-      <li> Golang - cli </li>
+      <li> Bash, Lua </li>
       <br/>
       <h><b>Other :</b></h> 
       <li> Python - Machine Learning + automation </li>
