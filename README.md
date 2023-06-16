@@ -15,8 +15,8 @@
 <p align="left"><b>Interests:</b></p> 
      <ul align="left" style="list-style-type:none">
      <h><b>Command Line Interface (CLI) Programming :</b></h>
-     <li> Rust </li>
-     <li> <strike>Go</strike> </li>
+     <li> <strike>Rust</strike> </li>
+     <li> Go</li>
      <li> Bash </li>
      <br/>
      <h><b>Scripting :</b></h> 
