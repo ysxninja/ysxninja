@@ -14,7 +14,6 @@
 <p align="left"><b>Interests & Tech Stack:</b></p> 
      <ul align="left" style="list-style-type:none">
      <h><b>Command Line Interface (CLI) Programming :</b></h>
-     <li> Java (Spring MVC) </li>
      <li> Go+Python </li>
      <li> Bash </li>
      <br/>
@@ -26,6 +25,7 @@
           <li> Next.js </li>
          </ul> 
        </li>
+      <li> Java (Spring MVC) </li>
       <li> Bash, Lua </li>
       <br/>
       <h><b>Security & Automation :</b></h> 
